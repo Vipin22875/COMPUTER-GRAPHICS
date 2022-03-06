@@ -1,0 +1,1 @@
+cohen-sutherland line clipping algo is based on 4 bit codes. If the point of line lies outside the window it is assigned 1 otherwise o bit is assigned. suppose a point lies on the upper end of the window it is assigned 1000 bit code. ... But Liang-Barsky algo involves the parametric equation of line
